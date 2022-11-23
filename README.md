@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @OscarMC28
-- 👀 I’m interested in becoming in data analytics
+- 👋 Hi, I’m Oscar Mendoza 
+- 👀 I’m a data analyst.
 - 🌱 I’m currently learning Python and R.
 - 💞️ I’m looking to collaborate on real-world projects.
 - 📫 How to reach me ...
