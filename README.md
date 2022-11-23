@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Oscar Mendoza 
-- 👀 I’m a data analyst.
-- 🌱 I’m currently learning Python and R.
-- 💞️ I’m looking to collaborate on real-world projects.
-- 📫 How to reach me ...
+- 👀 I’m a data analyst skilled with Excel, Python, Rstudio, SQL and Java.
+- 💞️ I’m looking to collaborate on real-world projects and gain experience in this field.
+- 📫 oscar.mendoza28@outlook.com
 
 <!---
 OscarMC28/OscarMC28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
