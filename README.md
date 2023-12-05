@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Oscar Mendoza 
+- 👋 Hi, I’m Oscar 
 - 👀 I’m a data analyst skilled with Excel, Python, Rstudio, SQL and Java.
-- 💞️ I’m looking to collaborate on real-world projects and gain experience in this field.
-- Skilled in Python, Excel, SQL, R studio
+- 💞️ I’m looking to collaborate on real-world projects and keep improving my skills in this field.
 - 📫 oscar.mendoza28@outlook.com
 
 <!---
