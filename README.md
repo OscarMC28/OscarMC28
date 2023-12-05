@@ -2,6 +2,7 @@
 - 👀 I’m a data analyst skilled with Excel, Python, Rstudio, SQL and Java.
 - 💞️ I’m looking to collaborate on real-world projects and keep improving my skills in this field.
 - 📫 oscar.mendoza28@outlook.com
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!---
 OscarMC28/OscarMC28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
